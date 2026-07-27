@@ -1,5 +1,6 @@
-First_name,Last_name
-puneet,k
-satvik,jk
-madesh,h
-sachin,h
+First_name,Last_name,type,Department,yoe,salary
+puneet,m,full_time,adimistration,1,5000
+satvik,jk,intern,techical,2,10000
+madesh,a,full_time,adimistration,5,50000
+sachin,h,part_time empolyee,techical,7,55000
+shree,t,full_time employee,management,6,7000
